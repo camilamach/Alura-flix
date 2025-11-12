@@ -1,7 +1,7 @@
 body{
     background-color: 
     rgb(220, 74, 44);
-    color:black;
+    color:rgb(244, 239, 239);
     font-family:"Archivo Black", sans-serif;
     margin: 0px;
 
@@ -12,10 +12,18 @@ border-bottom:  solid 5px black;
 text-align: center;
 /*margin: 30px;*/
 padding: 10px;
+color: rgb(2, 2, 2);
 }
 h1{
     font-size: 30px;
 }
 p{
     font-size: 20px;
+}
+
+section{
+background-color: cadetblue;
+padding-bottom: 80px;
+display: flex;
+justify-content: center;
 }
