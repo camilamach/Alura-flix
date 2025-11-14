@@ -22,8 +22,12 @@ p{
 }
 
 section{
-background-color: cadetblue;
+background-color: rgb(6, 6, 6);
 padding-bottom: 80px;
 display: flex;
 justify-content: center;
 }
+.chamada-texto{ 
+    margin-right: 10%;
+}
+
